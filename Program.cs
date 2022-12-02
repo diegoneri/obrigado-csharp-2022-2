@@ -12,9 +12,12 @@ ehPar = (numero % 2 == 0);
 
 if (ehPar)
 {
-    Console.WriteLine($"O número {numero} é par");
+    Console.WriteLine($"\nO número {numero} é par");
 }
 else
 {
-    Console.WriteLine($"O número {numero} é ímpar");
+    Console.WriteLine($"\nO número {numero} é ímpar");
 }
+
+Console.WriteLine("\nPressione uma tecla para encerrar...");
+Console.ReadKey();
