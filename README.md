@@ -2,7 +2,7 @@
 Aplicação criada na aula de Programação de Computadores da ETEC Adolpho Berezin, 2º semestre de 2022.
 
 ## Instruções para execução
-1. Faça o download do software [aqui](dist/obrigado-csharp-2022-2.zip)
+1. Faça o download do software [aqui](https://github.com/diegoneri/obrigado-csharp-2022-2/raw/main/dist/obrigado-csharp-2022-2.zip)
 1. Extraia o conteúdo do arquivo.
 1. Execute o programa:
     - `dotnet obrigado-csharp-2022-2.dll`
